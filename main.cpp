@@ -8,6 +8,10 @@ int main()
     cin >> a >> b;
     cout << "A + B = " << a + b << '\n';
     cout << "A - B = " << a - b << '\n';
+<<<<<<< HEAD
     cout << "A * B = " << a * b << '\n';
+=======
+    cout << "A / B = " << a / b << '\n';
+>>>>>>> division
     return 0;
 }
