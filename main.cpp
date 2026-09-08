@@ -1,5 +1,6 @@
 #include "sdt.h"
 
+// This programm is educational
 int main()
 {   
     int a, b;
